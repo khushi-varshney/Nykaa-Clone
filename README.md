@@ -6,4 +6,3 @@
   <li>Javascript is used to add the functionalities like : Click on Events etc, in the website.</li>
 </ul>
 <p>Nykaa is a E-Commerece Website that deals with beauty and health products.</p>
-<video src="public\Nykaa Pink Love Sale_ Save up to 60% on Makeup & Beauty Essentials! - Google Chrome 2024-08-06 12-28-07.mp4">
